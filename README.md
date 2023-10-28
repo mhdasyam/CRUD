@@ -1,2 +1,2 @@
 # crud
-crud_toko
+crud-toko
